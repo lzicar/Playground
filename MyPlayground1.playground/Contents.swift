@@ -2,4 +2,4 @@ import UIKit
 
 var greeting = "Hello, playground"
 
-print("hovno")
+print("hovno a hovinko")
